@@ -1,11 +1,11 @@
 const BLOG = {
-  title: '陈澍',
+  title: 'JackBrains',
   author: 'CHEN Shu',
   email: 'chanshuwork@outlook.com',
   link: 'https://blog.jackbrains.com',
-  description: 'Hello world!',
-  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
-  appearance: 'light', // ['light', 'dark', 'auto'],
+  description: '',
+  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
