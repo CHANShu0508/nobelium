@@ -2,7 +2,7 @@ const BLOG = {
   title: '陈澍',
   author: 'CHEN Shu',
   email: 'chanshuwork@outlook.com',
-  link: 'https://jackbrains.com',
+  link: 'https://blog.jackbrains.com',
   description: 'Hello world!',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'light', // ['light', 'dark', 'auto'],
